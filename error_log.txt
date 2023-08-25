@@ -1,0 +1,210 @@
+24/03/2022 03:44 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Login failed for user 'dranilma_adminSushil'.
+
+
+25/07/2022 04:11 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Object reference not set to an instance of an object.
+
+
+25/07/2022 04:15 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Object reference not set to an instance of an object.
+
+
+25/07/2022 04:16 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Object reference not set to an instance of an object.
+
+
+25/07/2022 04:17 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Object reference not set to an instance of an object.
+
+
+25/07/2022 04:19 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+Object reference not set to an instance of an object.
+
+
+25/07/2022 04:21 PM
+ASP.adminpanel_default_aspx
+cmdSign_Click
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+
+
+25/07/2022 04:21 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 04:22 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 04:25 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 04:25 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:30 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:30 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:31 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:31 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:34 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+Invalid column name 'testPlace'.
+
+
+25/07/2022 04:51 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 05:05 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+
+
+25/07/2022 05:06 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+
+
+25/07/2022 05:07 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+
+
+25/07/2022 05:08 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 05:11 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+There are more columns in the INSERT statement than values specified in the VALUES clause. The number of values in the VALUES clause must match the number of columns specified in the INSERT statement.
+
+
+25/07/2022 05:12 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 05:12 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+Incorrect syntax near '5'.
+
+
+25/07/2022 05:13 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+25/07/2022 05:14 PM
+ASP.adminpanel_testimonials_master_aspx
+btnSave_Click
+Incorrect syntax near '5'.
+
+
+25/07/2022 05:19 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+A field or property with the name 'testVideolink' was not found on the selected data source.
+
+
+25/07/2022 05:22 PM
+ASP.adminpanel_testimonials_master_aspx
+FillGrid
+A field or property with the name 'TestMobileNo' was not found on the selected data source.
+
+
+25/07/2022 05:51 PM
+ASP.adminpanel_news_master_aspx
+btnSave_Click
+Invalid object name 'News'.
+
+
+26/07/2022 03:18 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+26/07/2022 03:22 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+26/07/2022 04:27 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+26/07/2022 05:28 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+26/07/2022 05:30 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
+26/07/2022 05:32 PM
+ASP.adminpanel_dashboard_aspx
+GetCounts
+Invalid object name 'News'.
+
+
